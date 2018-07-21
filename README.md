@@ -1,5 +1,7 @@
-# Chuck Norris jokes - randomly chosen
-## created with:
+# Chuck Norris jokes 
+Randomly chosen facts from Chuck Norris's life.
+
+### Created with:
 * JavaScript
 * HTML5
 
