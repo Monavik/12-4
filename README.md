@@ -1,5 +1,5 @@
 # Chuck Norris jokes 
-Randomly chosen facts from Chuck Norris's life.
+Randomly chosen facts from famous superhero's life.
 
 ### Created with:
 * JavaScript
